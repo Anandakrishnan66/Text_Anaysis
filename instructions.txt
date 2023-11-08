@@ -1,0 +1,29 @@
+Intsalll Python
+
+Intsall nltk,pandas,textblob,bs4 in Python
+
+
+#nltk for NLP
+#textblob for procesing textual data
+#pandas to analyze data
+
+#read input.xlsx
+
+#makelist of url and urlid
+
+#extract the content from the site using Beautifulsoup
+
+#extract title and content
+#make list of ttitle adn content
+
+#make text file and write the content with filename as title of content
+
+#import stopwords,positivewords,negative words from respected directory
+
+#filter text in textlist with stopwords
+
+#calculate the positive_score,negative_score,polarity_score and other mentioned variables
+
+#write to outptu file
+
+
